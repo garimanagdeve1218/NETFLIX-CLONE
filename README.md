@@ -1,4 +1,4 @@
-#NETFLIX CLONE
+# NETFLIX CLONE
 Hey There!!<br>
 Take a look at this: A Netflix Homepage!<br>
 I made this homepage using HTML and CSS to keep things simple.
